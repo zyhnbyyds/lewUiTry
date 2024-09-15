@@ -23,7 +23,7 @@
     "@unocss/eslint-config": "^0.52.1",
     "@unocss/reset": "^0.52.1",
     "@vitejs/plugin-vue": "^4.2.3",
-    "@vue-macros/volar": "^0.9.8",
+    "@vue-macros/volar": "^0.30.0",
     "@vue/test-utils": "^2.3.2",
     "eslint": "^8.41.0",
     "jsdom": "^22.0.0",
